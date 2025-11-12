@@ -1,0 +1,7 @@
+php artisan serve --host=0.0.0.0
+
+npm run dev
+
+php artisan serve --host=192.168.1.2 --port=8001
+
+npx tsc resources/ts/errors.ts --outDir public/js
